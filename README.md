@@ -235,3 +235,4 @@ the following keys:
 ### Prometheus Monitoring & Alerts
 
 Prometheus and its features can be enabled by setting `prometheus.enabled` to `true`.  See values.yaml for more details and configuration options
+# helm-chart
